@@ -29,13 +29,17 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png", GTV
-https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+http://152.89.62:8880/DAALM2792/WM4X7tNsEk/60687
 
 
 
 
 
 =========inem
+
+#EXTM3U
+#EXTINF:-1 tvg-name="1:hustler hd" tvg-logo="https://bit.ly/40NTLDp",1:Hustler HD http://152.89.62:8880/DAALM2792/WM4X7tNsEk/2985
+
 
 #EXTINF:-1 tvg-name="1:hustler hd" tvg-logo="https://bit.ly/40NTLDp",1:Hustler HD http://152.89.62:8880/DAALM2792/WM4X7tNsEk/2985
 
