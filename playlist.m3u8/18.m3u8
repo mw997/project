@@ -2,7 +2,10 @@
 #EXTINF:-1 tvg-name="1:hustler hd" tvg-logo="https://bit.ly/40NTLDp",1:Hustler HD http://152.89.62:8880/DAALM2792/WM4X7tNsEk/2985 
 
 
-#EXTINF:-1 tvg-name="2:redlight hd" tvg-logo="https://bit.ly/40NTLDp",2:Redlight HD http://152.89.62:8880/DAALM2792/WM4X7tNsEk/2984 
+#EXTINF:-1
+tvg-name="2:redlight hd"
+tvg-logo="https://bit.ly/40NTLDp",2:Redlight HD
+http://152.89.62:8880/DAALM2792/WM4X7tNsEk/2984 
 
 
 #EXTINF:-1 tvg-name="3:prıvate tv hd" tvg-logo="https://bit.ly/40NTLDp",3:Prıvate TV HD http://152.89.62:8880/DAALM2792/WM4X7tNsEk/2983 
