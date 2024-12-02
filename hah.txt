@@ -1,15 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mw997/project/refs/heads/main/logo/mwtvgakdidol-picsay.jpg" group-title="INFO ADMIN",(ADMIN)
 https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_dunialain_small.png" group-title="Indonesia Channel",Dunia Lain
-https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8?c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png" group-title="Indonesia Channel",Kompas Tv
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-name="3:prıvate tv hd"
-tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png",3:Prıvate TV HD
-http://152.89.62:8880/DAALM2792/WM4X7tNsEk/2983
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_dunialain_small.png" group-title="INFO ADMIN",Dunia Lain
+https://raw.githubusercontent.com/mw997/project/refs/heads/main/logo/mwtvgakdidol-picsay.jpg
