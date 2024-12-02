@@ -8,9 +8,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/c8369888/3fdb_r32.jpg" group-title="Indonesia Channel",RTV (INDIHOME)
-http://152.89.62:8880/DAALM2792/WM4X7tNsEk/2984
+
 
 #EXTINF:-1 tvg-name="3:prıvate tv hd"
-tvg-logo="https://bit.ly/40NTLDp",3:Prıvate TV HD
+tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png",3:Prıvate TV HD
 http://152.89.62:8880/DAALM2792/WM4X7tNsEk/2983
